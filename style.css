@@ -3,3 +3,5 @@ body {background-color: rgb(222, 215, 215);}
 .p3{color:rgb(163, 6, 6) ;}
 *{font-size: 20px;}
 *{line-height: 1.5}
+p:nth-of-type(1) {text-decoration: underline;}
+a { color: rgb(23, 68, 201) ;}
